@@ -1,7 +1,12 @@
-h1{
-    text-align: center;
+ *{
+    padding: 40px;
+    /* margin: 40px; */ 
 }
-.todo{
-    margin: 0 auto;
-    /* background-color: blue; */
+input,button{
+    padding: 8px;
+    margin: 5px 0;
+}
+#message{
+    margin-top: 15px;
+    font-weight: bold;
 }
